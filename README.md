@@ -70,5 +70,7 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 
 
 # Fake API
+### Install fake api with json server
+https://github.com/typicode/json-server
 
-### `json-server --watch db.json --port 3004`
+json-server --watch db.json --port 3004
